@@ -1,2 +1,2 @@
-# makeup-lips
-Recunoastere nuante lipstick
+# color-up-yourlife
+Color of Make-up cosmetics
